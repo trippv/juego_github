@@ -1,3 +1,4 @@
 este documento contiene nada
 
 Este es un ejemplo de conflicto de merge. este texo esta en la rama master
+Este es un conglicque que voya generar en el branch 2
